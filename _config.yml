@@ -1,0 +1,8 @@
+title: Natika Forum
+description: Simple PHP Forum for Developers
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
